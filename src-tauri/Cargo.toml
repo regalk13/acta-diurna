@@ -2,7 +2,7 @@
 name = "acta-diurna"
 version = "0.0.0"
 description = "A Tauri App"
-authors = ["you"]
+authors = ["regalk"]
 license = ""
 repository = ""
 edition = "2021"
